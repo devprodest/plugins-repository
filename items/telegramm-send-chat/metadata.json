@@ -1,0 +1,29 @@
+{
+	"name": "Telegramm",
+	"version": "1.0",
+	"release_date": "2018-02-23",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://gitlab.com/devprodest/Bludit-plugins/tree/master/telegramm-send-chat",
+	"demo_url": "",
+	"information_url": "https://gitlab.com/devprodest/Bludit-plugins/tree/master/telegramm-send-chat",
+	"description": "Automatically send a link to the created page in the Chat Telegram",
+	"features": {
+		"0": "Send link to chanel",
+		"1": "Send link to private chat",
+		"2": "Send link to group chat"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": ""
+}
